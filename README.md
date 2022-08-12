@@ -22,3 +22,31 @@ if (average >= 7) {
              console.log(`Failed, try again!\n`);
          }
 ```
+
+## Instructions
+
+### How to run the project
+
+```bash
+git clone https://github.com/GomidesTs/average-of-students.git
+
+cd average-of-students
+```
+
+### At the terminal
+
+```bash
+node script.js
+```
+
+### In the browser
+
+```html
+Open the index file in your browser right click -> inspect element (or just f-12) -> console
+```
+
+## License
+
+The MIT License (MIT)
+
+Copyright (c)  Gomides Ts
